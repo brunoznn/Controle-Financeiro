@@ -1,0 +1,24 @@
+PLANEJAMENTO PARA UM APP DE CONTROLE FINANCEIRO:
+
+-Iniciar a aplicação mostrando o saldo. X
+-Fazer a pergunta se deseja adicionar ou remover dinheiro. X
+-Receber informações sobre Entrada ou saida de dinheiro. X
+-Armazenar essa informação de alguma forma. X
+-Fazer a conta de adição ou subtração e retornar o valor. X
+-Voltar para a tela inicial com o valor do saldo atualizado. X
+-Fazer uma opção para finalizar a aplicação. X
+-Verificar e corrigir erros. X
+
+-Permitir o uso de numeros decimais.
+
+-----------------------------------
+
+-Adicionar possibilidade de descrição para o motivo da entrada/saida.
+-Adicionar uma opção de historicos, no qual será possivel ver:
+Historico de entradas, Historico de saidas, Historico geral.
+
+-----------------------------------
+VERSÃO 2.0:
+
+-Criar uma interface.
+-Poder selecionar o mês no qual deseja.
